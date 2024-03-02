@@ -4,7 +4,7 @@ PDF- https://drive.google.com/file/d/14iPECtKE7_KhLDS1CbZbjATZ6Rp7HGGn/view?usp=
 
 Dataset Information: 
 
-
+The dataset is suitable for analyzing the relationship between the composition of concrete mixtures (cement, slag, fly ash, water, superplasticizer, coarse aggregate, fine aggregate) and their compressive strength. It can be utilized for modeling and predicting concrete compressive strength based on its components, aiding in the optimization of concrete mixture designs for construction projects.
 
 Attribute Information:
 
